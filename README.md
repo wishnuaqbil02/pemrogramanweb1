@@ -1,8 +1,20 @@
 # pemrogramanweb1
 
-START
+## PROFIL
+| Variable           |             Isi            |
+| -------------------|----------------------------|
+| **Nama**           |   Wishnu Aqbil Ramadani    |
+| **NIM**            |          312310591         |
+| **Kelas**          |          TI.23.A.6         |
+| **Mata Kuliah**    |      Pemrograman Web 1     |
+| **Dosen Pengampu** | Eko Budiarto s.kom, m.kom  |
 
-![Screenshot (100)](https://github.com/user-attachments/assets/c231b201-c059-455a-8dcc-48cacd2908e6)
+
+# CODE PROGRAM WEBSITE DINAMIS
+
+![Screenshot (100)](https://github.com/user-attachments/assets/af8d1b3e-79df-48f8-b5ba-f231e06b1ca2)
+
+```
 
 <!doctype html>
 <html lang="en">
@@ -166,24 +178,26 @@ START
 </body>
 
 </html>
+```
 
+![Screenshot (100)](https://github.com/user-attachments/assets/89d5fbe1-ccf9-42d9-aa03-0cc69d509e99)
 
-![Screenshot (100)](https://github.com/user-attachments/assets/f61b2934-d20c-4dc4-9d3b-4269fa1eba3d)
-
+```
 <h1>about</h1>
+```
 
-![Screenshot (100)](https://github.com/user-attachments/assets/37fc97fb-64e2-4be6-a7ec-6f2e1e65c946)
+![Screenshot (100)](https://github.com/user-attachments/assets/6729d512-23ab-49e9-ad0f-abd6ccaf7127)
 
+```
 <h1>Contact</h1>
+```
 
+![Screenshot (101) - Copy](https://github.com/user-attachments/assets/92ba0f63-fa39-458d-bb5a-dd4b68154406)
+![Screenshot (102)](https://github.com/user-attachments/assets/cd768ad7-0778-4854-9931-fc720e1bde90)
+![Screenshot (104)](https://github.com/user-attachments/assets/8097f6fd-6537-4002-b698-85a7c103cc0b)
+![Screenshot (105)](https://github.com/user-attachments/assets/26b23030-f28d-448d-8813-15b62a5347bb)
 
-![Screenshot (101) - Copy](https://github.com/user-attachments/assets/c9776e06-ac62-4c43-8f57-09ebbe8f3c31)
-
-![Screenshot (102) - Copy](https://github.com/user-attachments/assets/641afdbb-9a6e-4699-ab15-1a5de98c7f0f)
-
-![Screenshot (104) - Copy](https://github.com/user-attachments/assets/879e03e8-009a-4aea-ab68-03f391457d86)
-
-![Screenshot (105) - Copy](https://github.com/user-attachments/assets/65666230-909e-4fe5-9d58-3b111fef69c4)
+```
 
 
 
@@ -689,5 +703,5 @@ START
     </script>
 </body>
 </html>
-
-Finish
+```
+# SELESAI
