@@ -2,7 +2,7 @@
 
 START
 
-![Screenshot (100)](https://github.com/user-attachments/assets/779689b7-5a65-4e0d-87f5-853c0981284e)
+![Screenshot (100)]
 
 <!doctype html>
 <html lang="en">
@@ -170,22 +170,14 @@ START
 
 
 ![Uploading Screenshot (100).png…]()
-
 <h1>about</h1>
-
-
 ![Uploading Screenshot (100).png…]()
-
 <h1>Contact</h1>
 
-![Screenshot (101)](https://github.com/user-attachments/assets/9940aced-e9b5-4d0a-be1f-7b7a1ca6207f)
-
-![Screenshot (102)](https://github.com/user-attachments/assets/33614a05-c3da-404c-b15f-8ca0201cf57f)
-
-
-![Screenshot (104)](https://github.com/user-attachments/assets/4a13ea11-c34c-43dd-ba14-81b48415a11b)
-
-![Screenshot (105)](https://github.com/user-attachments/assets/d342c474-87a1-4f23-8b69-0ae9decadda8)
+![Screenshot (101)]
+![Screenshot (102)]
+![Screenshot (104)]
+![Screenshot (105)]
 
 <!DOCTYPE html>
 <html lang="en">
