@@ -2,7 +2,7 @@
 
 START
 
-![Screenshot (100)]
+![Screenshot (100)](https://github.com/user-attachments/assets/c231b201-c059-455a-8dcc-48cacd2908e6)
 
 <!doctype html>
 <html lang="en">
@@ -169,15 +169,24 @@ START
 
 
 
-![Uploading Screenshot (100).png…]()
+![Screenshot (100)](https://github.com/user-attachments/assets/f61b2934-d20c-4dc4-9d3b-4269fa1eba3d)
+
 <h1>about</h1>
-![Uploading Screenshot (100).png…]()
+
+![Screenshot (100)](https://github.com/user-attachments/assets/37fc97fb-64e2-4be6-a7ec-6f2e1e65c946)
+
 <h1>Contact</h1>
 
-![Screenshot (101)]
-![Screenshot (102)]
-![Screenshot (104)]
-![Screenshot (105)]
+
+![Screenshot (101) - Copy](https://github.com/user-attachments/assets/c9776e06-ac62-4c43-8f57-09ebbe8f3c31)
+
+![Screenshot (102) - Copy](https://github.com/user-attachments/assets/641afdbb-9a6e-4699-ab15-1a5de98c7f0f)
+
+![Screenshot (104) - Copy](https://github.com/user-attachments/assets/879e03e8-009a-4aea-ab68-03f391457d86)
+
+![Screenshot (105) - Copy](https://github.com/user-attachments/assets/65666230-909e-4fe5-9d58-3b111fef69c4)
+
+
 
 <!DOCTYPE html>
 <html lang="en">
